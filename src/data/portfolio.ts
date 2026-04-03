@@ -2,7 +2,7 @@ export const PORTFOLIO_DATA = {
   name: 'Raseed Saukat Ali',
   title: 'Full-Stack Web Developer',
   location: 'Jaipur, India',
-  email: 'raseedsaukatali@gmail.com',
+  email: 'saukatali@gmail.com',
   phone: '+91 9694929317',
   linkedin: 'https://www.linkedin.com/in/saukatali5200',
   github: 'https://github.com/saukatali5200',
@@ -17,7 +17,7 @@ export const PORTFOLIO_DATA = {
   stats: [
     { number: '4+', label: 'Years Experience' },
     { number: '3', label: 'Companies' },
-    { number: '5+', label: 'Live Projects' },
+    { number: '15+', label: 'Live Projects' },
     { number: '∞', label: 'Lines of Clean Code' },
   ],
   skills: [
