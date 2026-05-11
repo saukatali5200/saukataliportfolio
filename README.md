@@ -37,6 +37,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000)
 
+https://saukataliportfolio.vercel.app/
+
 ## Customization
 
 All personal data is in `src/data/portfolio.ts` — edit name, links, skills, projects, experience there.
