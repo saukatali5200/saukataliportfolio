@@ -209,13 +209,12 @@ nav{
 
 .hero-h1{
   font-family:'Playfair Display',serif;font-weight:900;
-  /* Tighter top end — was too massive at xl+ */
-  font-size:clamp(2.4rem,4.8vw,5.2rem);
+  font-size:clamp(2.4rem,3.8vw,5.2rem);
   line-height:.92;letter-spacing:-.03em;
   margin-bottom:clamp(.85rem,1.2vh,1.25rem)
 }
 .clip-line{overflow:hidden;display:block}
-.clip-inner{display:block;animation:clipup .9s cubic-bezier(.16,1,.3,1) both}
+.clip-inner{animation:clipup .9s cubic-bezier(.16,1,.3,1) both}
 .clip-line:nth-child(1) .clip-inner{animation-delay:.4s}
 .clip-line:nth-child(2) .clip-inner{animation-delay:.55s}
 .clip-line:nth-child(3) .clip-inner{animation-delay:.7s;color:var(--a)}

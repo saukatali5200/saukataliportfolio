@@ -6,6 +6,9 @@ export const PORTFOLIO_DATA = {
   phone: '+91 9694929317',
   linkedin: 'https://www.linkedin.com/in/saukatali5200',
   github: 'https://github.com/saukatali5200',
+  facebook: 'https://facebook.com/saukatali5200',
+  youtube: 'https://youtube.com/saukatali5200',
+  twitter: 'https://x.com/saukatali5200',
   resumePdf: '/Saukat_Ali_2026.pdf',
   avatarUrl: '/avatar.png',
   bio: 'Experienced Full-Stack Web Developer with 4+ years of expertise in Laravel, CodeIgniter, Node.js, and MySQL. Skilled in building e-commerce platforms, AI job portals, REST APIs, and scalable backend systems — with hands-on experience in payment gateways (PayPal, CashFree, MyFatoora), third-party integrations (Twilio, Firebase, Social Login), deployment, and team coordination across global clients.',
@@ -25,13 +28,13 @@ export const PORTFOLIO_DATA = {
     { icon: '🔥', name: 'CodeIgniter', experience: '4+ yrs · Backend', percent: 90 },
     { icon: '🟢', name: 'Node.js / Express', experience: '2+ yrs · Backend', percent: 82 },
     { icon: '⚛️', name: 'React.js', experience: '2+ yrs · Frontend', percent: 78 },
-    { icon: '🗄️', name: 'MySQL / Databases', experience: 'Advanced queries & design', percent: 88 },
+    { icon: '🗄️', name: 'MySQL / Databases', experience: 'Advanced queries & design', percent: 92 },
     { icon: '🎨', name: 'Frontend (HTML/CSS/JS)', experience: 'Bootstrap · jQuery · Tailwind', percent: 80 },
   ],
   techStack: [
-    'Laravel', 'PHP', 'CodeIgniter', 'Node.js', 'React.js', 'Express',
+    'PHP', 'Laravel', 'CodeIgniter', 'Node.js', 'Express',
     'MySQL', 'REST API', 'Git', 'Twilio', 'Firebase', 'PayPal',
-    'CashFree', 'MyFatoora', 'Bootstrap', 'jQuery', 'Tailwind', 'Docker',
+    'CashFree', 'MyFatoora', 'React.js', 'HTML5', 'CSS3', 'Bootstrap', 'jQuery', 'JavaScript'
   ],
   experience: [
     {
@@ -104,7 +107,7 @@ export const PORTFOLIO_DATA = {
       link: 'https://tallento.ai/',
     },
   ],
-  languages: ['Hindi', 'English'],
+  languages: ['Hindi', 'English', 'Urdu'],
   interests: ['Problem Solving', 'Logical Puzzles', 'Coding Challenges', 'Learning New Technologies'],
   marqueeItems: [
     'Laravel', 'CodeIgniter', 'Node.js', 'React.js', 'MySQL', 'REST APIs',

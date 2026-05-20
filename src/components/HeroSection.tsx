@@ -49,9 +49,9 @@ export default function HeroSection() {
             Full-Stack Developer · {D.location}
           </div>
           <h1 className="hero-h1">
-            <span className="clip-line"><span className="clip-inner">Raseed</span></span>
-            <span className="clip-line"><span className="clip-inner">Saukat</span></span>
-            <span className="clip-line"><span className="clip-inner">Ali.</span></span>
+            <span className="clip-line"> 
+              <span className="clip-inner">Raseed</span> <span className="clip-inner">Saukat</span> <span className="clip-inner">Ali.</span>
+            </span>
           </h1>
           <p className="hero-sub">
             <strong>4+ years building production-grade web apps</strong> — Laravel, CodeIgniter, Node.js &amp; React.
